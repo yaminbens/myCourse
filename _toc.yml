@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: Welcome
+parts:
+    - caption: Additional Content
+      chapters:
+        - file: AdditionalContent/Markdown
+        - file: AdditionalContent/Math
+        - file: AdditionalContent/CodeAndPlots
+        - file: AdditionalContent/Table
+        - file: AdditionalContent/Image
+        - file: AdditionalContent/ActiveLearning
